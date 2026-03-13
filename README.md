@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Savan Ughareja
 
-<!--
-**Savan5033/Savan5033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Interested in Machine Learning, AI, and Full Stack Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Machine Learning
+* FastAPI
+* React
+* SQL
+* Git & GitHub
+
+## 🔥 Projects
+
+### AI Study Assistant
+
+AI-powered platform with chatbot, PDF Q&A, summarizer and study planner.
+
+Tech Stack:
+
+* React
+* FastAPI
+* Gemini API
+
+GitHub Repository:
+https://github.com/Savan5033
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/yourprofile
+* Email: [your@email.com](mailto:your@email.com)
