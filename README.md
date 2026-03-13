@@ -29,5 +29,5 @@ https://github.com/Savan5033
 
 ## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://www.linkedin.com/in/savan-ughareja/
+* Email: savanpael14478@gmail.com
